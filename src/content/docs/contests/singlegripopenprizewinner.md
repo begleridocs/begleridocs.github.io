@@ -95,7 +95,7 @@ https://www.instagram.com/reel/DCzLUVtofAh
 ### 3rd place
 
 :::caution
-ルールは回によって異なる箇所もある。毎年最新のルールを確認すること。
+ルールは年によって異なる。本大会に出場する場合は最新のルールを確認すること。
 :::
 
 :::note

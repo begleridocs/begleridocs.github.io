@@ -7,8 +7,9 @@ export default defineConfig({
 	site: 'https://begleridocs.github.io',
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: 'Begleri Docs',
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/begleridocs/begleridocs.github.io' }],
+			favicon: '/Be.svg',
 			sidebar: [
 				{
 					label: 'Contests',
