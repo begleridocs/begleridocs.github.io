@@ -10,6 +10,7 @@ export default defineConfig({
 			title: 'Begleri Docs',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/begleridocs/begleridocs.github.io' }],
 			favicon: '/Be.svg',
+			  logo: {    src: './src/assets/Be.webp',},
 			sidebar: [
 				{
 					label: 'Contests',
