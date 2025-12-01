@@ -24,7 +24,7 @@ export default defineConfig({
 					label: 'Reference',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Example Reference', slug: 'reference/example' },
 					],
 				},
 			],
