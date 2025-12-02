@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://begleridocs.github.io',
-	integrations: [
+	integrations: [starlight({ title: 'https://begleridocs.github.io/' })
 		starlight({
 			title: 'Begleri Docs',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/begleridocs/begleridocs.github.io' }],
@@ -19,13 +19,6 @@ export default defineConfig({
 				{
 					label: 'Guides',
 					autogenerate: { directory: 'guides' }
-				},
-				{
-					label: 'Reference',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Reference', slug: 'reference/example' },
-					],
 				},
 			],
 		}),
