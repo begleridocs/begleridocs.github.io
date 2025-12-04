@@ -90,9 +90,12 @@ https://www.instagram.com/p/DCtWmMuzmWF/
 ### 3rd place [@aaslingstuff](https://www.instagram.com/aaslingstuff/)
 https://www.instagram.com/reel/DCzLUVtofAh
 ## 2025
-### 1st place
-### 2nd place
-### 3rd place
+### 1st place Naonari
+https://www.invisiblecollege.com/c/submissions-202e46/black-pink
+### 2nd place keitxro_
+https://www.invisiblecollege.com/c/submissions-202e46/9fced0
+### 3rd place sanweitusi
+https://www.invisiblecollege.com/c/submissions-202e46/21d8be
 
 :::caution
 本大会はこれまで何度もルール変更を重ねてきた。出場する場合は最新のルールを確認すること。
