@@ -103,7 +103,7 @@ https://www.invisiblecollege.com/c/submissions-202e46/21d8be
 
 :::note
 - 本大会の沿革は以下のページを参照：
-https://begleri-b-ahchan.seesaa.net/article/sgo.history.html
+https://note.com/begleri_an/n/n49b8f92821e4
 - 本大会の2024年までの結果発表は、2024年大会の集計表にてリンクが掲載されている：https://docs.google.com/spreadsheets/d/13EPFvl-y939fPZSnf4p67iV7qmJuwqEvEREFy5F6y68/edit?usp=sharing
 :::
 
