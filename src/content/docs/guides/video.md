@@ -98,6 +98,9 @@ description: ベグレリ関係の動画
 - ベグレリのトーク配信
 - ゲストを招いた配信もあり、「Xjlgdc」、「Musclebones & Xjlgdc」、「The_Soul_Smith & Nanonspeedial」、「Pytnlrsn & Keitxro_」をゲストに招いている
 - https://www.youtube.com/@BegleriTricks/streams
+### Begleri TIPS and TRICKS: HOW TO GET GOOD AT BEGLERI FAST!!!
+- ベグレリを上達するためのコツを解説した動画
+- https://www.youtube.com/watch?v=K0dDwhuVLGE
 ### SlingSlam 2022 Dorezzz begleri reaction（Soul Smith）
 - SlingSlam2022準優勝動画をスリンガーが感嘆しながら見るという動画
 - ちなみに動画を見ている方は審査員を務めたSoul Smith氏
