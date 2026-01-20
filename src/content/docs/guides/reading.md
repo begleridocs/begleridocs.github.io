@@ -26,6 +26,6 @@ description: ベグレリ関係の読み物
 ## ベグレリ練習時の心がけ
 - ブログ「手遊び部屋」にて公開されている記事
 - https://hyperusagi.hatenablog.com/entry/20171120/1511177250
-## Aroundsquareについて
+## ベグレリコミュニティのリーダー aroundsquareについて 
 - 現代ベグレリの礎を築き、現在までコミュニティーを牽引し続けている会社「aroundsquare」についてまとめた個人ブログページ
-- https://begleri-b-ahchan.seesaa.net/article/ao2.html
+- https://note.com/begleri_an/n/n59be1536c060
