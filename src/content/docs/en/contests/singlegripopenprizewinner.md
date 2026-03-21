@@ -23,7 +23,7 @@ https://www.instagram.com/p/BbhSQVGlDWW/
 ### 2nd place (tie) [@keitxro_](https://www.instagram.com/keitxro_/)　[@wil.farr](https://www.instagram.com/wil.farr/)
 https://www.instagram.com/p/BbfkObIhFuM/
 
-(we have not been able to confirm the entry video from @wil.farr.)
+Unable to view the video from @wil.farr
 
 ### Exhibition Division [@i.mapo](https://www.instagram.com/i.mapo/)
 
@@ -36,7 +36,7 @@ https://www.instagram.com/p/
 ### 1st place @4lphaseed
 Unable to view the video
 ### 2nd place (tie)　@tr4yce [@flipbagels](https://www.instagram.com/flipbagels/)
-（we have not been able to confirm the entry video from @tr4yce）
+Unable to view the video from @tr4yce
 
 https://www.instagram.com/p/BqsbmuWhyob/
 ### 3rd place [@cizrektext](https://www.instagram.com/CizreK/)
