@@ -66,6 +66,9 @@ description: ベグレリ関係の動画
 - https://www.youtube.com/playlist?list=PLe6I9a5Kxi7T1mmk4X4HmLaW-jTOsLH6I
 ### Nate Martsolf Begleri
 - https://www.youtube.com/playlist?list=PLIoaOIq47uyGI3Ab4ouboUoCvFBHxpYV6
+### Wiseman's Begleri tutorial
+- https://youtu.be/gtbWmF5e8Vw?si=qQ3BOK70t_-86Zcq
+- https://youtu.be/yUUtXFG6j4E?si=isZFqW9DiRuHGL4C
 ### 【BEGLERI】TUTORIAL SPIN UNIVERSE by SPINGEAR
 - https://www.youtube.com/playlist?list=PLjwiDg1PPG5x08tULQ1uVSjwZ2vMjVnDm
 
