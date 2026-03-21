@@ -1,0 +1,31 @@
+---
+title: Begleri Docs
+
+tableOfContents: false
+description: A documentation site that compiles various information about Begleri
+hero:
+  tagline: A documentation site that compiles various information about Begleri
+  image:
+    file: '/src/assets/Be.webp'
+  actions:
+    - text: Introduction
+      link: /guides/0-introduction/
+      icon: right-arrow
+    - text: Site administrator
+      link: https://naonari.netlify.app/
+      icon: external
+      variant: minimal
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## About This Site
+
+<CardGrid stagger>
+	<Card title="ABOUT" icon="pencil">
+		This website is an archive dedicated to gathering information about begleri.
+	</Card>
+	<Card title="Competition Results" icon="rocket">
+		You can view the winning videos of past champions from the two major begleri competition, SlingSlam and SingleGripOpen. This allows you to plan your own routines while observing the trends of previous winners.
+	</Card>
+</CardGrid>

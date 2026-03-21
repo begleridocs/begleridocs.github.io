@@ -8,6 +8,17 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Begleri Docs',
+			defaultLocale: 'root',
+			locales: {
+				root: {
+					label: 'Japanese',
+					lang: 'ja',
+				},
+				'en': {
+					label: 'English',
+					lang: 'en',
+				},
+			},
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/begleridocs/begleridocs.github.io' }],
 			favicon: '/Be.svg',
 			  logo: {    src: './src/assets/Be.webp',},
