@@ -51,6 +51,13 @@ https://www.invisiblecollege.com/c/submissions-begleri/wiseman-s-knot
 https://www.invisiblecollege.com/c/submissions-begleri/jump-around
 ### 3rd place [@keitxro_](https://www.instagram.com/keitxro_/)
 https://www.invisiblecollege.com/c/submissions-begleri/fight-back
+## 2026
+### 1st place [Keitxro_](https://www.instagram.com/keitxro_/)
+https://www.invisiblecollege.com/c/begleri-submissions/652fb1
+### 2nd place [Sanweitusi](https://www.instagram.com/sanweitusi/)
+https://www.invisiblecollege.com/c/begleri-submissions/haven-t-practiced-in-ages-it-s-passable
+### 3rd place [Naonari](https://www.instagram.com/1021z_ani/)
+https://www.invisiblecollege.com/c/begleri-submissions/dancing-begleri
 
 :::note
 Instagram上で大会が行われていた2024年までの動画は、アカウント削除や動画削除によりエントリー動画が見られなくなってしまう可能性があるため、可能な限りaroundsquare公式によるリポスト動画のリンクを掲載した。
