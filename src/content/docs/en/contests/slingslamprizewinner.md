@@ -52,6 +52,14 @@ https://www.invisiblecollege.com/c/submissions-begleri/jump-around
 ### 3rd place [@keitxro_](https://www.instagram.com/keitxro_/)
 https://www.invisiblecollege.com/c/submissions-begleri/fight-back
 
+## 2026
+### 1st place [Keitxro_](https://www.instagram.com/keitxro_/)
+https://www.invisiblecollege.com/c/begleri-submissions/652fb1
+### 2nd place [Sanweitusi](https://www.instagram.com/sanweitusi/)
+https://www.invisiblecollege.com/c/begleri-submissions/haven-t-practiced-in-ages-it-s-passable
+### 3rd place [Naonari](https://www.instagram.com/1021z_ani/)
+https://www.invisiblecollege.com/c/begleri-submissions/dancing-begleri
+
 :::note
 For videos from contests held on Instagram up to 2024, there is a risk that entry videos may become unavailable due to account or video deletions. Therefore, I have included links to reposted videos by the official aroundsquare account whenever possible.
 :::
